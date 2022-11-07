@@ -1,0 +1,6 @@
+# Accept And Display input
+# Nwachukwu Maryann Mmesoa 2017364085
+name = input('What is your name? \n')
+age = int(input('How old are you? \n'))
+department = input('What is your department? \n')
+print(("My name is",name, "I am",age ,"years old","From", department  ,"department." ))
